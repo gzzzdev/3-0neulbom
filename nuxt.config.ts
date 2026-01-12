@@ -24,9 +24,9 @@ export default defineNuxtConfig({
   },
   // devServer: { port: 3003 },
   devServer: { port: 3000 },
-  // nitro: {
-  //   externals: {
-  //     inline: ['better-sqlite3']
-  //   }
-  // }
+  nitro: {
+    externals: {
+      inline: ['vue', 'vue/server-renderer']
+    }
+  }
 })
