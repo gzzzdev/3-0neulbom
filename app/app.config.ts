@@ -1,0 +1,1 @@
+export { default } from '../_myData/_configs/app.config.js'
