@@ -20,7 +20,9 @@ export default defineAppConfig({
     welcome: '대한민국 교사교육의 중심',
 
     bg: {
-      src: '/img/bg1.jpeg',
+      src1: '/img/bg1.jpeg',
+      src2: '/img/bg2.jpg',
+      src3: '/img/bg3.jpeg',
       class: 'object-[100%]',
       // class: 'object-bottom',
       // class: 'object-[40%_90%]',
