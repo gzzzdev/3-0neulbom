@@ -10,4 +10,16 @@
 </template>
 
 <script setup lang="ts">
+
+const appConfig = useAppConfig();
+useSeoMeta({
+  title: appConfig.global.title,
+  description: appConfig.global.description,
+  ogTitle: appConfig.global.title,
+  ogDescription: appConfig.global.description,
+  ogImage: appConfig.global.bg.src3,
+  twitterCard: 'summary_large_image',
+});
+
+
 </script>

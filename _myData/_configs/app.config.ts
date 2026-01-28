@@ -11,8 +11,9 @@ export default defineAppConfig({
     email: 'ui-pro@nuxt.com',
     available: true,
     // title: '경인교육대학교 명예교수회',
-    title: '경인교육대학교 인천 RISE 사업단',
-    title_short: '경인교대 인천 RISE 사업단',
+    title: '늘봄교육센터',
+    title_short: '늘봄교육센터',
+    description: '...',
 
 
     title_en: 'Innovative New Life Steel Co., Ltd.',
