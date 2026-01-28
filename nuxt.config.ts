@@ -28,5 +28,5 @@ export default defineNuxtConfig({
     externals: {
       inline: ['vue', 'vue/server-renderer']
     }
-  }
+  },
 })

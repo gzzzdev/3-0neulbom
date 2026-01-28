@@ -13,7 +13,7 @@ export default defineAppConfig({
     // title: '경인교육대학교 명예교수회',
     title: '늘봄교육센터',
     title_short: '늘봄교육센터',
-    thumbnail: 'https://axadnapqrnfwvnemgxln.supabase.co/storage/v1/object/public/bucket1/static/bg0.jpeg',
+    ogImage: 'https://axadnapqrnfwvnemgxln.supabase.co/storage/v1/object/public/bucket1/static/og0.jpeg',
     description: '...',
 
 
