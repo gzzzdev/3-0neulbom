@@ -17,7 +17,7 @@ useSeoMeta({
   description: appConfig.global.description,
   ogTitle: appConfig.global.title,
   ogDescription: appConfig.global.description,
-  ogImage: appConfig.global.bg.src3,
+  ogImage: appConfig.global.thumbnail,
   twitterCard: 'summary_large_image',
 });
 
